@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
             var result = ""
 
             // Check all feilds present
-             if (time.isEmpty())
+             if (time.isEmpty ())
                 txtResult.text =" Please enter time of day"
 
                 if(time == "morning") {
