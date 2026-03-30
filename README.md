@@ -3,3 +3,4 @@ The purpose of this app is to provide user interaction based on the time of day.
 This app was programmed using Kotlin in Android Studios.
 Features such as bttons and plain text view was used. 
 The user would insert the time day ,eg "morning" and they would get a special message like "Send a good morning text t a family memeber"
+if statments were used 
